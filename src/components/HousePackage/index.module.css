@@ -1,0 +1,22 @@
+.root {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  background: #fff;
+  /* 解决房屋配套样式问题 */
+  padding-left: 5px;
+}
+
+.item {
+  margin: 10px 0;
+  width: 20%;
+  line-height: 23px;
+}
+
+.active {
+  color: #21b97a;
+}
+
+.icon {
+  font-size: 23px;
+}
